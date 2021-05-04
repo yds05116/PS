@@ -12,10 +12,10 @@ int main()
     {
         cin>>arr[i];
     }
-    sort(arr.arr+time);
+    sort(arr,arr+time);
     for (int i=0; i<time; i++)
     {
-        cout<<arr[i]\n;
+        cout<<arr[i];
     }
     return 0;
 }
